@@ -5,6 +5,7 @@
 💙 Building real projects | Learning every day | Growing step by step
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=MERN+Stack+Developer;DevOps+Learner;Future+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Python;React+%7C+Node.js+%7C+MongoDB)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
