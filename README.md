@@ -27,7 +27,7 @@
 
 ![Nadeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadeem4054&show_icons=true&theme=tokyo-night)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nadeem4054&theme=tokyo-night)
+![GitHub Streak](www.linkedin.com/in/muhammad-nadeem-358186330)
 
 ---
 
