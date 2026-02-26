@@ -34,7 +34,7 @@
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Nadeem4054)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](your-linkedin-link-yahan-daalein)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/muhammad-nadeem-358186330)
 
 ---
 
