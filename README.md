@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **MY-PORTFOLIO** and **Personal Agent**
+- 🔭 Currently working on **FINAL-YEAR-PROJECT**
 - 🌱 Learning **DevOps, Docker, Linux & Cloud**
 - 💼 Skills: **React.js, JavaScript, MangoDB, HTML, CSS**
 - 🎯 Goal → Become a job-ready Full Stack + DevOps Engineer
