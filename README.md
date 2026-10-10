@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Muhammad%20Nadeem&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20DevOps%20Learner&descSize=18&descAlignY=58" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Muhammad%20Nadeem&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20DevOps%20Learner&descSize=18&descAlignY=58&animation=fadeIn" alt="Header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Real-World+Projects;Learning+DevOps+%26+Cloud;Aspiring+Full+Stack+%2B+DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Final+Year+Project+Completed+%E2%9C%85;Learning+DevOps+%26+Cloud;Aspiring+Full+Stack+%2B+DevOps+Engineer)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/Nadeem4054"><img src="https://img.shields.io/badge/GitHub-Nadeem4054-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -31,7 +31,7 @@ I'm a **MERN Stack developer from Pakistan 🇵🇰** who enjoys turning ideas i
 
 **Frontend**
 
-![HTML5](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark)
 
 **Backend & Database**
 
@@ -43,26 +43,40 @@ I'm a **MERN Stack developer from Pakistan 🇵🇰** who enjoys turning ideas i
 
 ---
 
-## 🚀 Featured Projects
+## 🗺️ My Learning Journey
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **Final Year Project** ✅ | *Add a one-line description of what your project does and who it helps.* | React, Node.js, Express, MongoDB | [Repo](https://github.com/Nadeem4054) · [Live Demo](#) |
-| **Project Name** | *Short description of the problem it solves.* | Your stack here | [Repo](https://github.com/Nadeem4054) · [Live Demo](#) |
-| **Project Name** | *Short description of the problem it solves.* | Your stack here | [Repo](https://github.com/Nadeem4054) · [Live Demo](#) |
+```mermaid
+flowchart LR
+    A["HTML · CSS · JS"] --> B["React.js"]
+    B --> C["Node · Express · MongoDB"]
+    C --> D["Final Year Project ✅"]
+    D --> E["Linux"]
+    E --> F["Docker"]
+    F --> G["AWS"]
+    G --> H["CI/CD"]
+    H --> I["🎯 Full Stack + DevOps Engineer"]
+
+    style D fill:#238636,stroke:#2ea043,color:#fff
+    style E fill:#1F6FEB,stroke:#58A6FF,color:#fff
+    style F fill:#1F6FEB,stroke:#58A6FF,color:#fff
+    style G fill:#1F6FEB,stroke:#58A6FF,color:#fff
+    style H fill:#1F6FEB,stroke:#58A6FF,color:#fff
+    style I fill:#8957E5,stroke:#A371F7,color:#fff
+```
 
 ---
 
-## 📈 Currently Learning
+## 🐍 Contribution Snake
 
-- [x] HTML, CSS, JavaScript
-- [x] React.js
-- [x] Node.js, Express.js & MongoDB
-- [ ] Linux & Shell Scripting
-- [ ] Docker & Containers
-- [ ] AWS Fundamentals
-- [ ] CI/CD Pipelines (GitHub Actions)
-- [ ] Python for Automation
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadeem4054/Nadeem4054/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nadeem4054/Nadeem4054/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Nadeem4054/Nadeem4054/output/github-snake-dark.svg" />
+</picture>
+
+</div>
 
 ---
 
@@ -74,6 +88,18 @@ I'm a **MERN Stack developer from Pakistan 🇵🇰** who enjoys turning ideas i
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeem4054&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Nadeem4054&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadeem4054&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nadeem4054&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -87,8 +113,6 @@ I'm always happy to talk about web development, DevOps, or new opportunities.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nadeem4054)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nadeem-358186330)
-
-*💡 Tip: add your email here so recruiters can contact you directly.*
 
 </div>
 
