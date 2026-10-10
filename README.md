@@ -16,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **MERN Stack developer from Pakistan 🇵🇰** who enjoys turning ideas into clean, working web applications. I'm currently building my **final-year project** and expanding my skill set into **DevOps and Cloud** to become a job-ready Full Stack + DevOps Engineer.
+I'm a **MERN Stack developer from Pakistan 🇵🇰** who enjoys turning ideas into clean, working web applications. I recently **completed my final-year project** and am now expanding my skill set into **DevOps and Cloud** to become a job-ready Full Stack + DevOps Engineer.
 
-- 🔭 **Currently working on:** Final Year Project
+- 🎓 **Recently completed:** Final Year Project ✅
 - 🌱 **Currently learning:** Docker, Linux, AWS, CI/CD
 - 💼 **Core stack:** React.js, Node.js, Express.js, MongoDB, JavaScript
 - 🎯 **Goal:** Full Stack + DevOps Engineer
@@ -47,7 +47,7 @@ I'm a **MERN Stack developer from Pakistan 🇵🇰** who enjoys turning ideas i
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Final Year Project** | *Add a one-line description of what your project does and who it helps.* | React, Node.js, Express, MongoDB | [Repo](https://github.com/Nadeem4054) |
+| **Final Year Project** ✅ | *Add a one-line description of what your project does and who it helps.* | React, Node.js, Express, MongoDB | [Repo](https://github.com/Nadeem4054) · [Live Demo](#) |
 | **Project Name** | *Short description of the problem it solves.* | Your stack here | [Repo](https://github.com/Nadeem4054) · [Live Demo](#) |
 | **Project Name** | *Short description of the problem it solves.* | Your stack here | [Repo](https://github.com/Nadeem4054) · [Live Demo](#) |
 
